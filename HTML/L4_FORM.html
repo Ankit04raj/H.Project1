@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORM CREATION</title>
+</head>
+<body>
+  <h5>Enter the ID & Pass</h5>
+    <form action="/action.php">
+        <!-- input tag  -->
+         <input type ="text"placeholder="username">
+         <br>
+         <br>
+         <input type ="password"placeholder="password">
+         <BR>
+        <br>
+
+         <!-- LABEL TAGS --> <!--label id can mark the option by clicking on just text-->
+        <label for="101">
+          <input type="radio" value="class XI"  name="class" id="101">class XI
+        </label>
+          <BR>
+          <br>
+        <label for="102">
+          <input type="radio" value="class XII" name="class" id="102">class XII
+        </label>
+        <br>
+        <br>
+
+        <h5> select fav subject</h5>
+        <!--radio tags used for single option click-->
+
+         <!-- CHECK BOX  used for multi option click -->
+         <label for="maths"> 
+            <input type="checkbox" value="maths" name="subject" id="101"> math
+          </label>
+          <br>
+          <label for="phy"> 
+            <input type="checkbox" value="phy" name="subject" id="102"> phy
+          </label>
+          <br>
+          <label for="html"> 
+            <input type="checkbox" value="html" name="subject" id="103"> html
+          </label>
+          <br>
+          <label for="che"> 
+            <input type="checkbox" value="che" name="subject" id="104"> che
+          </label>
+          <br>
+          <h5>select your city</h5>
+          <select name="city" id="1001">  <!--give differnet section of option for choosing any of them-->
+            <option value="delhi">delhi</option>
+            <option value="mumbai">mumbai</option>
+            <option value="hydrabad">hydrabad</option>
+            <option value="pune">pune</option>
+          </select>
+          <br>
+          <textarea name="feedback" id="101" placeholder="please give your valuable feedback here" rows="5" column="6" ></textarea>
+          <br>
+          <pre>                    <input type="submit" value="submit"></pre>
+
+    </form>
+    <!-- <iframe>  src="link </iframe> (USED to merse website inside website) -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-qLQ10H9gfA?si=f4xglyUo6AbUTqR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <br>
+    <video width="560" height="315" src="HelloFolder/myvideo.mp4" controls loop >MY video</video>
+
+</body>
+</html>
