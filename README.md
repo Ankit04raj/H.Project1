@@ -28,4 +28,4 @@ This repository contains all my **HTML and CSS practice projects** as I learn an
 
 ---
 
-## 📂 Folder Structure
+## 📂 TO BE CONTINUE...
