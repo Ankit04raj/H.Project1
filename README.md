@@ -1,12 +1,12 @@
 # 🌐 Web Development Journey — HTML & CSS  
 
 Welcome to my **Web Development Repository**!  
-This is my first step into the world of **Frontend Development**, following the amazing tutorials by [Apna College (Shradha Khapra)](https://www.youtube.com/@ApnaCollegeOfficial). 🚀  
+This is my first step into the world of **Frontend Development**, [Apna College (Shradha Khapra)](https://www.youtube.com/@ApnaCollegeOfficial). 🚀  
 
 ---
 
 ## 📘 About This Project
-This repository contains all my **HTML and CSS practice projects** as I learn and build beautiful static web pages.  
+This repository contains all my **HTML and CSS practice projects** as I learn and build beautiful static web pages,& JUST practice PORTFOLIO.  
 
 > 💡 “Every great developer starts with writing their first `<html>` tag.”
 
