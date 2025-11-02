@@ -28,4 +28,4 @@ This repository contains all my **HTML and CSS practice projects** as I learn an
 
 ---
 
-## 📂 TO BE CONTINUE...with FULL STACK using D-jango
+## 📂 TO BE CONTINUE...with FULL STACK (D-jango)
